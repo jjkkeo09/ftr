@@ -1,0 +1,531 @@
+What is the minimum Aerial drop height over a road?
+15.5 Feet
+
+
+What is the minimum Aerial drop height over a Driveway?
+11.5 Feet
+
+
+What is the minimum Aerial drop height over a pedestrian walk way (deck, yard, side walk)?
+9.5 Feet
+
+
+What is the aerial separation from power at the Pole?
+12 inches
+
+
+What is the aerial separation from Telephone or another utility at the pole?
+12 inches
+
+
+How far must a P-hook be from Power's attachment on a house?
+12 inches
+
+
+How far must a P-hook be from Telephone or another utility's attachment on a house?
+6 inches
+
+
+How far must a Q-clamp (span clamp) be from the center of the Pole?
+30 inches
+
+
+How far must a Q-clamp (span clamp) be from any hardline devices (Tap, Splitter, Amplifier...)?
+6 inches
+
+
+What is the maximum Vertical (up to down) attachment spacing of a cable (coax, ground wire, phone outlet)?
+36 inches
+
+
+What is the maximum Horizontal (left to right) attachment spacing of a cable (coax, ground wire, phone outlet)?
+12-18 inches
+
+
+What is the height requirement for any newly installed housebox?
+3-5 Feet
+
+
+What is the "Do Not Enter" zone (no holes or houseboxes) of a power meter?
+From the ground to 6 Feet above the power meter
+
+
+What is the Maximum length of a ground wire/bond wire?
+20 Feet
+
+
+Where does a bond tag get placed?
+Within 2 inches of the bond point
+
+
+How many bond tags are installed when bonding on the interior?
+2, and written location of bond in housebox
+
+
+What is the hierarchy of bonding attachment locations?
+a. IBT (Intersystem Bonding Terminal/Termination) (Inside or Outside)
+b. #6 Ground Wire
+c. Power Meter Enclosure and or the Power mast (Metal Only)
+d. Steel frame of a building/Mobile home
+
+
+What is the minimum distance from an electrical outlet that a Coax can be installed?
+6 inch separation
+
+
+How many splices can an existing Aerial drop have in it?
+0
+
+
+How many splices can an existing Underground drop have in it?
+2
+
+
+How many splices can an existing outlet have in it?
+1
+
+
+An Aerial drop rule of thumb is to follow power, unless?
+Power is underground and the customer is ok with Midco's drop being Aerial.
+
+
+What is the maximum length of excess coax within a Pedestal?
+No more than 12 inches above the top of the pedestal
+
+
+What devices can all be used to secure a housebox shut?
+Zip-tie or plastic lock
+
+
+What devices can all be used to secure an MDU Box shut?
+Locking Terminator, Pad Lock, MDU Lock Box Key
+
+
+At what point in wiring must a bond be made before?
+Before the first device (splitter)
+
+
+What on the Exterior or Interior, can Midco's coax, conduit, and ground wires be zip-tied/attached to _______?
+Only Coaxial cables (including satellite coax), the premise, never another utility, or water/gas pipes
+
+
+Interior communication cables should never run in the same joist hole as power's wiring, as it can cause _________.
+Electrical interference, electrical transference to the coax
+
+
+Once a Work Order is assigned to a technician __________ , to ensure customer satisfaction, & a good QA score.
+All FTR corrections must be made, the job is entirely the technician's responsibility
+
+
+When placing an underground drop, the pedestal must be _________?
+Secured Shut
+
+
+When placing a temp underground drop, the drop must enter in what manner to allow the pedestal to be secured shut?
+Digging the drop in, using a knock-out, drilling into a Plastic Pedestal at ground level (never metal ped)
+
+
+The temp drop must be picked up and put into your vehicle if the customer has what type of order?
+Disconnect or non-pay disconnect
+
+
+All Premise entry holes must be ____________ no matter the size of the hole.
+Sealed or filled
+
+
+All conduit must be ________ after visiting the ped or pole.
+Sealed with a conduit cap or filled with putty
+
+
+Zip-ties should be pulled only tight enough for the ___________ to be able to slide back and forth through it.
+Coax, ground wire, phone cable
+
+
+Excess tags on a drop are considered what?
+Trash
+
+
+A Zip-tie should be placed how far below the tap in a pedestal, to prevent the orange tag from resting in the dirt?
+6 inches or just so the tag doesn't rest in the dirt
+
+
+All coaxial cable used by Midco is what Ohm?
+75 Ohm
+
+
+All Tap ports must have a __________ on each unused port, and check for tightness.
+75 Ohm Locking Terminator
+
+
+All F-connectors must be a _________ style connector, or be replaced with one?
+Compression Connector
+
+
+All __________ entering the earth require conduit or equivalent protection from rodent, weed-ship...damage.
+Coax, drop, outlets
+
+
+A steel sided house requires the use of what style siding clip?
+Steel siding clip
+
+
+A vinyl sided house requires the use of what style siding clip?
+Vinyl siding clip
+
+
+A wood, brick, mason... sided house may use of what style siding clip?
+Screw clip, flex clip, anchor if brick/block/mortar
+
+
+When drilling a hole you should always drill at what angle from the inside to outside?
+Slightly downward
+
+
+Leaving zip-ties uncut on a housebox, coax, attachment point is considered _________.
+Trash
+
+
+What specifications must a splitter have to be able to use?
+Welded back plate, 5-1,000 MHz
+
+
+What specifications must an Amplifier have to be acceptable to use?
+5-1,000 MHz, Rtn 5-85 MHz
+
+
+What is the minimum and maximum signal level input to an amplifier?
+0 dB min and 12 dB max on a digital channel
+
+
+What is the Forward minimum to maximum signal to a STB?
+-6 dB to +12 dB
+
+
+What is the Forward minimum to maximum signal level to a DOCSIS device?
+-6 dB to +12 dB
+
+
+Define what devices are "DOCSIS"?
+Modems, EMTA
+
+
+What is the Return minimum to maximum signal level to both a STB & a DOCSIS device?
+35 to 54 dB
+
+
+What is the minimum MER?
+33 dB
+
+
+What is the minimum BER?
+1.0E-9
+
+
+What does that mean (BER)?
+1 = bits - E = errors - 9 = number of zeros behind the 1.
+
+
+What is the specification for DQI (Digital Quality Index)?
+10 (perfect only)
+
+
+Why look to DQI over BER for Troubleshooting?
+DQI is a more precise measurement, BER examines sample portions of the channel
+
+
+What is the Minimum Echo?
+Less than -25 dBc (-35 is less than, it is farther from +0)
+
+
+What does Echo measure?
+Micro-reflections - caused by kinked/smashed cables, exceeded bend radius, non-terminated ports
+
+
+What is the specification for GD (Group Delay)
+Less than 300 ns (nano seconds)
+
+
+What causes GD issues?
+Generally, a Head End or Fiber issue, laser clippin, Components not properly performing
+
+
+What is specification for ICFR (In Channel Frequency Response)?
+Less than 3 dB
+
+
+What causes poor ICFR?
+Corroded connectors, poor connectors, improper bend radius, F-81 barrels too close together
+
+
+What is the specification for Hum?
+Less than 3%
+
+
+What causes poor Hum?
+Often a power pack failing on in-House Amp, Plant Amp Power Pack issues (when found at Tap)
+
+
+What is the minimum Upstream SNR?
+28 dB
+
+
+What is the minimum In-Band SNR - On a STB's Diagnostic Screen?
+33 dB
+
+
+What is the minimum Out-of-Band SNR - On a STB's Diagnostic Screen?
+20 dB
+
+
+What is a remote login credentials for all Midco modems?
+admin - cableroot
+
+
+What buttons are pressed to Format (Wipe) a Motorola's Hard Drive?
+Quick rewind once, List thrice, live once
+
+
+What is the Toll free phone number to Midco?
+1-800-888-1300
+
+
+What must be in the comments on every drop bury form?
+Tech's name and phone number
+
+
+When must a person's "Out of Office" be enabled?
+Any normally scheduled work day that a tech might have worked
+
+
+What is the loss of a 2 way splitter?
+3.5 dB
+
+
+What is the loss of a 4 way splitter?
+7 dB
+
+
+What is the loss of an 8 way splitter?
+11 dB
+
+
+What is the loss of a 6 way splitter?
+9 dB
+
+
+What is the loss of a balanced 3 way splitter?
+5.5 dB
+
+
+What is the loss of an unbalanced 3 way splitter?
+3.5 dB, 7 dB & 7 dB
+
+
+What is the through loss of a DC6?
+2-2.2 dB
+
+
+What is the tap loss of a DC6?
+6 dB
+
+
+What is the loss on channel 134 or 860 MHz on RG-6 coax over 100 feet?
+About 6 dB
+
+
+What is the loss on channel 116 or 750 MHz on RG-6 coax over 100 feet?
+5.5 dB
+
+
+What is the loss on channel 78 or 550 MHz on RG-6 coax over 100 feet?
+4.5 dB
+
+
+What is the loss on channel 15 or 129 MHz on RG-6 coax over 100 feet?
+2.5 dB
+
+
+What is the loss on the Return or 23-36 MHz on RG-6 coax over 100 feet?
+1 dB
+
+
+What is the symbol of a 2 port - 23 value tap on the Ponderosa map?
+Circle with a 23 in it
+
+
+What is the symbol of a 4 port - 11 value tap on the Ponderosa map?
+Square with an 11 in it
+
+
+What is the symbol of a 8 port - 17 value tap on the Ponderosa map?
+Hexagon with a 17 in it
+
+
+What is the symbol of an Amp on the Ponderosa map?
+Triangle
+
+
+What is the symbol of Fiber on the Ponderosa map?
+Circle with 2 arrows in it
+
+
+What is the symbol of a 2 way splitter on the Ponderosa map?
+Circle with the number 2 in it
+
+
+What does a circle with a partial half-moon fill represent on the Ponderosa map?
+DC
+
+
+How deep should a drop that has been buried in conduit be?
+12 inches minimum depth
+
+
+What do you do if you find oxidation on the coax (anywhere, drop, outlet, ground-block...)?
+Remove the oxidation till good braid/foil are found, or replace the outlet/drop
+
+
+What is the maximum length (cutoff length) of a RG-6 drop?
+150 Feet
+
+
+What is the maximum length (cutoff length) of RG-11 drop?
+250 Feet
+
+
+What is the maximum length drop allowed in a temp situation?
+As long as the signal level is good enough to work at the CPE or Amplifier
+
+
+What is the zip code for Donlen's fuel card?
+60015
+
+
+How often should your oil be changed if you vehicle is 2010 or newer?
+Every 6,000 miles or when Donlen says to.
+
+
+What type of oil should a 2010 or newer be using?
+Synthetic oil
+
+
+How often should your oil be changed if your vehicle is older than 2010?
+Every 5,000 miles
+
+
+Per FTR, where do all orders start, and why?
+At the Tap, to ensure there isn't a problem with the drop/tap.
+
+
+Use this tool _______ before you come in contact with the Aerial Span, Metal Pedestal, power supply...anything metal.
+Foreign Voltage Detector
+
+
+How do you get into the Diagnostics of a HDDTA?
+Hold down the 0 key, go to Virtual channel map
+
+
+All outlets installed by Midco must be wired in what method (topology), how?
+Home Run Method
+
+
+What Status are you in when working with the Trainer/
+Training Time
+
+
+What status are you in when working with a Mentor?
+New Hire Tech - Task Tracker - Enroute, Start
+
+
+What colors are the Tip & Ring for phone service?
+Green & Red or W/blue & Blue
+
+
+What are the quiet line, 1 kHz tone, phone ID telephone number to dial?
+a. xxx-0043
+b. xxx-0042
+c. xxx-0069
+
+
+At what height of a ladder is a hard hat and Eye protection required?
+6 Feet
+
+
+What frequency is the Return Band?
+5-85 MHz
+
+
+What frequency is the Forward Band?
+105-860 MHz
+
+
+Self-Terminating Taps are which?
+2port 4 value, 4port 8 value, 8port 11 value
+
+
+What is the Out of Band Frequency for Set Top Boxes?
+110.25 MHz
+
+
+What is the Return Frequency of a Set Top Box?
+8.096 MHz
+
+
+When drilling a hole, you must always push the cable in, attach the wall plate then go back outside to the siding.
+To prevent the cable from sticking too far and losing the silicone seal
+
+
+What buttons do you press to clear the HDDTA remote's codes?
+Hold Setup till green, then press either 987, 986, 981
+
+
+What buttons do you press to remove RF pairing on TiVo Remote?
+Hold TiVo button and Red letter C Button
+
+
+How many CLI (leaks) are you required to enter per month/quarter?
+4 per month or 12 per quarter
+
+
+How do you identify a new/Prime account number?
+It ends with a 01
+
+
+How many outlets get added for free?
+2
+
+
+PIC & LPIC
+700-555-4141
+(Area Code)-700-4141
+
+
+What is our highest D3.1 QAM Modulation?
+4096
+
+
+What are the D3.1 Profiles & Modulation?
+PLC - 16 QAM
+Profile A - 256 QAM
+Profile B - 1024 QAM
+Profile C - 2048 QAM
+Profile D - 4096 QAM
+
+
+What size leak must you stop and fix immediately?
+100 microvolts
+
+
+What is the maximum allowable ingress per FTR?
+-40 dB
+
+
+On the Drop Bury form, when should expedite be checked?
+Temps drop to: Businesses (daycares), crosses sidewalks, going through trees, through neighbor's yard...
+
+
+What options are there for a temp drop crossing a sidewalk?
+a. Dig under both sides of walk, drill under/pound ground rod
+b. Utilize trees to cross over the sidewalk
+c. Use a sidewalk mat (check out from Manager)
+d. Enter Expedite on Bury Drop form
